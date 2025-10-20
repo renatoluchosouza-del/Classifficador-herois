@@ -1,6 +1,6 @@
 
-let nomeHeroi = "Ramona";
-let xpHeroi = 10500;
+let nomeHeroi = "Odilei";
+let xpHeroi = 10000;
 let nivel = "";
 
 
@@ -23,4 +23,4 @@ if (xpHeroi < 1000) {
 }
 
 
-console.log(`O Herói de nome ${nomeHeroi} está no nível de ${nivel}`);
+console.log(`O Herói ${nomeHeroi} está no nível  ${nivel}`);
